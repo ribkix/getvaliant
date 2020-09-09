@@ -1,0 +1,16 @@
+:root {
+  --bg-color: #101010;
+  --bg-secondary-color: #505050;
+  --color-primary: #0d70d7;
+  --color-lightGrey: #dbdbdb;
+  --color-grey: #bdbdbd;
+  --color-darkGrey: #9e9e9e;
+  --color-error: #d43939;
+  --color-success: #28bd14;
+  --grid-maxWidth: 120rem;
+  --grid-gutter: 2rem;
+  --font-size: 1.6rem;
+  --font-color: #ededed;
+  --font-family-sans: sans-serif;
+  --font-family-mono: monaco, "Consolas", "Lucida Console", monospace;
+}

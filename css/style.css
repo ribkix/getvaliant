@@ -18,3 +18,9 @@
 body {
   overflow-x: hidden;
 }
+
+.promotion {
+  background-color: #0d70d7;
+  border: 1px #0d70d7 solid;
+  border-radius: 25px;
+}
